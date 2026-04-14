@@ -1,8 +1,8 @@
-# 📊 Data Analytics Project — SQL + EDA + Advanced Analytics + Reporting
-
 <p align="center">
-  <img src="project-diagrams/data_analytics_structure.png" width="85%" />
+  <img src="project-diagrams/data_analytics_structure.png" width="90%" />
 </p>
+
+# 📊 Data Analytics Project — SQL + EDA + Advanced Analytics + Reporting
 
 ---
 
