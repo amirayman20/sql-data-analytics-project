@@ -1,24 +1,3 @@
-<p align="center">
-
-  <!-- LINKEDIN -->
-  <a href="YOUR_LINKEDIN_URL" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  <!-- GITHUB -->
-  <a href="YOUR_GITHUB_URL" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-  <!-- EMAIL -->
-  <a href="mailto:YOUR_EMAIL">
-    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-</p>
-
----
-
 # 📊 Data Analytics Project — SQL + EDA + Advanced Analytics + Reporting
 
 <p align="center">
@@ -210,3 +189,23 @@ README.md
 - تطبيق EDA + Advanced Analytics  
 - إنتاج تقارير جاهزة للأعمال  
 - عرض مهارات SQL بشكل قوي وواضح  
+
+---
+
+# 📬 Connect With Me
+
+<p align="center">
+
+  <a href="https://www.linkedin.com/in/amir-ayman-664513103/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/amirayman20" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+
+  <a href="mailto:amirayman20@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+</p>
