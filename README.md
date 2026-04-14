@@ -1,25 +1,31 @@
 <p align="center">
 
-  <!-- SQL -->
-  <img src="https://img.shields.io/badge/SQL-Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <!-- LINKEDIN -->
+  <a href="YOUR_LINKEDIN_URL" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-  <!-- Data Analytics -->
-  <img src="https://img.shields.io/badge/Data-Analytics-1D4ED8?style=for-the-badge&logo=googleanalytics&logoColor=white" />
+  <!-- GITHUB -->
+  <a href="YOUR_GITHUB_URL" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 
-  <!-- Power BI -->
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-
-  <!-- GitHub -->
-  <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white" />
-
-  <!-- Project Status -->
-  <img src="https://img.shields.io/badge/Status-Completed-22c55e?style=for-the-badge" />
-
-  <!-- License (Optional) -->
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge" />
+  <!-- EMAIL -->
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 
 </p>
-# 🇬🇧 Data Analytics Project — SQL + EDA + Advanced Analytics + Reporting
+
+---
+
+# 📊 Data Analytics Project — SQL + EDA + Advanced Analytics + Reporting
+
+<p align="center">
+  <img src="project-diagrams/data_analytics_structure.png" width="85%" />
+</p>
+
+---
 
 ## 📘 Overview
 This project represents a complete end‑to‑end Data Analytics workflow built using SQL Server.  
@@ -36,9 +42,8 @@ The project includes:
 ---
 
 ## 🏗️ Project Architecture
-The analytical workflow is divided into two major phases:
 
-### 1. Exploratory Data Analysis (EDA)
+### **1. Exploratory Data Analysis (EDA)**
 - Database Exploration  
 - Dimensions Exploration  
 - Date Exploration  
@@ -46,18 +51,13 @@ The analytical workflow is divided into two major phases:
 - Magnitude Analysis  
 - Ranking (Top N / Bottom N)
 
-### 2. Advanced Analytics
+### **2. Advanced Analytics**
 - Change‑Over‑Time (Trends)  
 - Cumulative Analysis  
 - Performance Analysis  
 - Part‑to‑Whole  
 - Data Segmentation  
 - Reporting Layer  
-
-📌 Diagram available in:
-```
-project-diagrams/data_analytics_structure.png
-```
 
 ---
 
@@ -81,8 +81,7 @@ project-diagrams/data_analytics_structure.png
 
 ## 🧠 Key Analytical Views
 
-### Customer Report (gold.report_customer)
-Includes:
+### **Customer Report (gold.report_customer)**
 - Customer Segmentation (VIP / Regular / New)  
 - Age Segmentation  
 - Recency  
@@ -92,8 +91,7 @@ Includes:
 - Average Monthly Spend  
 - Lifespan  
 
-### Product Report (gold.report_products)
-Includes:
+### **Product Report (gold.report_products)**
 - Product Segmentation (High / Mid / Low Performer)  
 - Recency  
 - Total Orders  
@@ -150,7 +148,7 @@ Includes:
 ---
 
 ## 🏗️ هيكل المشروع
-### التحليل الاستكشافي (EDA)
+### **التحليل الاستكشافي (EDA)**
 - استكشاف قواعد البيانات  
 - استكشاف الأبعاد  
 - استكشاف التواريخ  
@@ -158,7 +156,7 @@ Includes:
 - تحليل الحجم  
 - الترتيب (Top N / Bottom N)
 
-### التحليلات المتقدمة
+### **التحليلات المتقدمة**
 - التحليل عبر الزمن  
 - التحليل التراكمي  
 - تحليل الأداء  
@@ -178,7 +176,7 @@ README.md
 ---
 
 ## 📊 أهم الـ Views
-### تقرير العملاء
+### **تقرير العملاء**
 - تقسيم العملاء  
 - العمر  
 - Recency  
@@ -187,7 +185,7 @@ README.md
 - متوسط قيمة الطلب  
 - متوسط الإنفاق الشهري  
 
-### تقرير المنتجات
+### **تقرير المنتجات**
 - تقسيم المنتجات  
 - Recency  
 - إجمالي الطلبات  
